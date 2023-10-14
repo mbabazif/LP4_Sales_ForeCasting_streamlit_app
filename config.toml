@@ -1,0 +1,9 @@
+[global]
+developmentMode = false
+
+[theme]
+base = "dark"  # Choose between "light" and "dark"
+primaryColor = "#000000"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#AEDFF7"
+textColor = "#FFFFFF"
